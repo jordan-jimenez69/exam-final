@@ -13,7 +13,7 @@
 Je modifie le release pour le test et je viens de le re modifier
 
 Je creer ma branche pour corriger le bug fictif
-
+Correction de fonctionnalité
 Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind [GitHub Pages](https://pages.github.com), which you can use to host sites right from your GitHub repositories.
 
 ## Philosophy
